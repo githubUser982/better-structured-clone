@@ -1,0 +1,27 @@
+{
+  "name": "batterstructuredclone",
+  "version": "1.0.0",
+  "description": "Deep-clone an object, including functions, symbols, maps, and arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubUser982/better-structured-clone.git"
+  },
+  "keywords": [
+    "deepclone",
+    "deep",
+    "clone",
+    "structured",
+    "better",
+    "best"
+  ],
+  "author": "githubUser982",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/githubUser982/better-structured-clone/issues"
+  },
+  "homepage": "https://github.com/githubUser982/better-structured-clone#readme"
+}
