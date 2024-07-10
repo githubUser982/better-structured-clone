@@ -58,4 +58,4 @@
 			return newObj;
 		}
 
-		module.exports.betterStructuredClone = betterStructuredClone;
+		module.exports.clone = betterStructuredClone;

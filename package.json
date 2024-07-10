@@ -1,10 +1,10 @@
 {
-  "name": "batterstructuredclone",
+  "name": "better-structured-clone",
   "version": "1.0.0",
   "description": "Deep-clone an object, including functions, symbols, maps, and arrays.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test.js"
   },
   "repository": {
     "type": "git",
